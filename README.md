@@ -2,7 +2,7 @@
 
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="230">
 
-<p><em>Data Scientist at <a href="https://www.bosch-india-software.com/en/our-company/about-us/">Bosch</a>
+<p><em>Data Scientist at <a href="https://tech.walmart.com/content/walmart-global-tech/en_us/about.html">Walmart</a>
 </em></p>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-n-revi/)
